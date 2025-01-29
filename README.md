@@ -51,4 +51,4 @@ Quer controbuir? sinta-se à vontade para abrir uma Issue ou um Pull Request!
 5. Abra um Pull Request
 
 ---
-Feito com 💙 por [Beatriz B.Borges](https://github.com/BeatrizBastosBorges)
+Feito com 💙 por [Beatriz B. Borges](https://github.com/BeatrizBastosBorges)
